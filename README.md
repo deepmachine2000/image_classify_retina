@@ -5,4 +5,5 @@ The dataset is balanced. There are 24000 images in each of the two classes. Out 
 
 <p align="left">
 <img width="400" height="250" src="images/retina_compare.png">
+<img width="400" height="250" src="images/retina_compare_many.png">  
 </p>  
