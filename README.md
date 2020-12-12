@@ -15,8 +15,8 @@ The following shows the basic configuration of CNN used in this work. There are 
 ![](images/keras_CNN_configuration.png)
 
 <br>
-The following shows the sensitivity of the accuracy to the number of neurons. For the configuration with 8 and 16 neurons there are too few neurons for the model to fit to the observations. Hence the accuracy is too low. With a the number of neurons equal to 128, the model is flexible enough to fit to the observations and hence the accuracy increases compared to the case of too few neurons. However, there is evidence of overfitting in that the training accuracy is close to 1 while the validation accuracy is much lower ( ~ 0.88).
+The following shows the sensitivity of the accuracy to the number of neurons. For the configuration with 8 and 16 neurons there are too few neurons for the model to fit to the observations. Hence the accuracy is too low. With a the number of neurons equal to 128, the model is flexible enough to fit to the observations and hence the accuracy increases compared to the case of too few neurons. However, there is evidence of overfitting in that the training accuracy is close to 1 while the validation accuracy is much lower ( ~ 0.88). Decreasing the # of neurons to 32 gives a better result in that the overfitting decreases. This is quantified by the decrease in gap between the training and validation accuracy. The training accuracy is 0.92 and validation accuracy is 0.88. Consquently 32 is the best choice for this problem. 
 
 <p align="center">
-<img width="400" height="250" src="images/number_neurons.png"> 
+<img width="400" height="250" src="images/number_neurons_5.png"> 
 </p>  
