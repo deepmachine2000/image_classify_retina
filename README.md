@@ -41,6 +41,12 @@ The following explores the sensitivity of accuracy to the magnitude of dropout.
 <img width="500" height="300" src="images/number_dropout.png"> 
 </p>
 
+The following explores the effect of data augmentation on accuracy.
+
+<p align="center">
+<img width="500" height="300" src="images/number_dataaugmentation.png"> 
+</p>
+
 # References
 https://towardsdatascience.com/balancing-the-regularization-effect-of-data-augmentation-eb551be48374
 
