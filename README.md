@@ -40,3 +40,8 @@ The following explores the sensitivity of accuracy to the magnitude of dropout.
 <p align="center">
 <img width="500" height="300" src="images/number_dropout.png"> 
 </p>
+
+# References
+https://towardsdatascience.com/balancing-the-regularization-effect-of-data-augmentation-eb551be48374
+
+https://stats.stackexchange.com/questions/295383/why-is-data-augmentation-classified-as-a-type-of-regularization
