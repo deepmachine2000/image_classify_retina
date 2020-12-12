@@ -20,3 +20,15 @@ The following shows the sensitivity of the accuracy to the number of neurons. Fo
 <p align="center">
 <img width="500" height="300" src="images/number_neurons_5.png"> 
 </p>  
+
+The following explores the sensitivity of accuracy to the number of filters.
+
+<p align="center">
+<img width="500" height="300" src="images/number_filters.png"> 
+</p>
+
+The following explores the sensitivity of accuracy to the magnitude of dropout.
+
+<p align="center">
+<img width="500" height="300" src="images/number_dropout.png"> 
+</p>
